@@ -3,6 +3,7 @@
     padding: 0%;
     box-sizing: border-box;
     font-family: gilroy;
+    colour: blue ;
 }
 html,body{
     height: 100%;
@@ -171,5 +172,6 @@ canvas{
 }
 #page3>#text3>h1{
     font-size: 70px;
+
 
 }
