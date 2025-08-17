@@ -3,7 +3,7 @@
     padding: 0%;
     box-sizing: border-box;
     font-family: gilroy;
-    colour: blue ;
+    colour: #87CEEB;
 }
 html,body{
     height: 100%;
@@ -175,3 +175,4 @@ canvas{
 
 
 }
+
